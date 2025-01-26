@@ -101,7 +101,7 @@ Me chamo João e trabalho como analista de teste de software no Flextronics Inst
     title="Express"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
+    src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000"
 />
 <img
     align="left"
@@ -132,3 +132,11 @@ Me chamo João e trabalho como analista de teste de software no Flextronics Inst
 <a href="https://www.linkedin.com/in/joaopauloferreirafatec/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:joao.ea2020@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+### 📕 Alguns dos meus projetos
+
+📚 **Aplicação de cadastro de livros:** https://github.com/joaopafe/books
+
+🏆 **Simulador do campeonato brasileiro:** https://github.com/joaopafe/simulation-of-the-brazilian-championship
+
+📝 **Lista de tarefas fullstack:** https://github.com/joaopafe/to-do-list-fullstack
