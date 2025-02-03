@@ -133,6 +133,8 @@ Me chamo João e trabalho como analista de teste de software no Flextronics Inst
 <a href = "mailto:joao.ea2020@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
+
 ### 📕 Alguns dos meus projetos
 
 📚 **Aplicação de cadastro de livros:** https://github.com/joaopafe/books
